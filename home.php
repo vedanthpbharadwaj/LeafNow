@@ -330,6 +330,7 @@
                 <div class="col-lg-12">
                     <p>
                         <u>Copyright ©2021 Leaf Now</u>
+                      <u>Designed by Tejaswini Shailesh, Ananya B and Vedanth P Bharadwaj</u>
                     </p>
                 </div>
             </div>
